@@ -1,0 +1,1101 @@
+pred_1,pred_2,pred_3,pred_4,pred_5,value_new_hypertension,value_new_hyperlipidemia,value_new_acutemi
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,1
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No",0,1,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",1,1,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,1
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",1,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,1,1
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,1,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",1,1,0
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",1,1,1
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",1,1,1
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,1,0
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",1,1,1
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",1,0,1
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No",0,1,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",1,1,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",1,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",1,1,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",1,1,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",1,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,0,0
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",0,0,1
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",1,1,1
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,1,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,1
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",1,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,1
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",0,0,1
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",0,1,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",1,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,0,1
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",1,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: Yes
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,1,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: Yes","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: No
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0
+"Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No","Hypertension: Yes
+Hyperlipidemia: No
+Acute Myocardial Infarction: No",0,0,0

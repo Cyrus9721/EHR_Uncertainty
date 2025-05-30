@@ -1,0 +1,2101 @@
+pred_1,pred_2,pred_3,pred_4,pred_5,0,1,2,3,4
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No",1,1,1,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"Predict whether anemia lab test result comes back as: No
+Predict whether hypoglycemia lab test result comes back as: Yes
+Predict whether hyponatremia lab test result comes back as: Yes
+Predict whether thrombocytopenia lab test result comes back as: Yes
+Predict whether hyperkalemia lab test result comes back as: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,1,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,1,1,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,0,0,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No",1,0,1,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",0,0,0,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,1,0
+"Predict whether an anemia lab test result comes back as normal: No
+Predict whether a hypoglycemia lab test result comes back as normal: Yes
+Predict whether a hyponatremia lab test result comes back as normal: Yes
+Predict whether a thrombocytopenia lab test result comes back as normal: Yes
+Predict whether a hyperkalemia lab test result comes back as normal: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","Predict whether anemia lab test result comes back as normal: Yes
+Predict whether hypoglycemia lab test result comes back as normal: Yes
+Predict whether hyponatremia lab test result comes back as normal: Yes
+Predict whether thrombocytopenia lab test result comes back as normal: Yes
+Predict whether hyperkalemia lab test result comes back as normal: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,1,1,0
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,0,0,1
+"anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,1,0
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,0,0,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,1,0,0
+"Predict whether an anemia lab test result comes back as normal: No
+Predict whether a hypoglycemia lab test result comes back as normal: No
+Predict whether a hyponatremia lab test result comes back as normal: Yes
+Predict whether a thrombocytopenia lab test result comes back as normal: Yes
+Predict whether a hyperkalemia lab test result comes back as normal: Yes","Predict whether an anemia lab test result comes back as normal: No
+Predict whether a hypoglycemia lab test result comes back as normal: Yes
+Predict whether a hyponatremia lab test result comes back as normal: Yes
+Predict whether a thrombocytopenia lab test result comes back as normal: Yes
+Predict whether a hyperkalemia lab test result comes back as normal: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",0,1,0,1,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: No",1,0,1,0,1
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,1,1,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,0,1,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,1,0
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,0,0,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No",1,0,1,0,1
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","Predict whether an anemia lab test result comes back as normal: Yes
+Predict whether a hypoglycemia lab test result comes back as normal: Yes
+Predict whether a hyponatremia lab test result comes back as normal: Yes
+Predict whether a thrombocytopenia lab test result comes back as normal: Yes
+Predict whether a hyperkalemia lab test result comes back as normal: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: No",1,0,1,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,1,0,0
+"anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,1,1,1
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,1,1,0
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,0,1,0
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,1,0
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,1,0,0
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No",1,0,0,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","Predict whether an anemia lab test result comes back as normal: No
+Predict whether a hypoglycemia lab test result comes back as normal: Yes
+Predict whether a hyponatremia lab test result comes back as normal: Yes
+Predict whether a thrombocytopenia lab test result comes back as normal: Yes
+Predict whether a hyperkalemia lab test result comes back as normal: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No",1,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,1,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,1,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",0,1,1,0,0
+"anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: No",0,0,1,0,1
+"anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,0,0,0,1
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,1,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No 
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No",1,0,0,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,0,0,0
+"Predict whether anemia lab test result comes back as normal: No
+Predict whether hypoglycemia lab test result comes back as normal: Yes
+Predict whether hyponatremia lab test result comes back as normal: Yes
+Predict whether thrombocytopenia lab test result comes back as normal: Yes
+Predict whether hyperkalemia lab test result comes back as normal: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","Predict whether an anemia lab test result comes back as normal: Yes
+Predict whether a hypoglycemia lab test result comes back as normal: Yes
+Predict whether a hyponatremia lab test result comes back as normal: Yes
+Predict whether a thrombocytopenia lab test result comes back as normal: Yes
+Predict whether a hyperkalemia lab test result comes back as normal: Yes",0,1,0,0,0
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,1,0
+"Predict whether an anemia lab test result comes back as normal: No
+Predict whether a hypoglycemia lab test result comes back as normal: Yes
+Predict whether a hyponatremia lab test result comes back as normal: Yes
+Predict whether a thrombocytopenia lab test result comes back as normal: Yes
+Predict whether a hyperkalemia lab test result comes back as normal: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,1,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,1,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,1,0,0,0
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,1,1,1
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,0,0,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,0,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,0,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes",1,1,0,1,0
+"anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: No","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,1,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: No","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: No",1,0,0,0,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,1,0,0,0
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",1,0,0,1,1
+"anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes",0,0,1,1,1
+"anemia: No
+hypoglycemia: No
+hyponatremia: No
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: Yes
+hyperkalemia: Yes","anemia: No
+hypoglycemia: Yes
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: No
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes","anemia: Yes
+hypoglycemia: No
+hyponatremia: Yes
+thrombocytopenia: No
+hyperkalemia: Yes",1,0,1,0,1

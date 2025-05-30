@@ -1,0 +1,2601 @@
+pred_1,pred_2,pred_3,pred_4,pred_5,0,1,2,3,4,5
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,1
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,1,0,0,1,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,1,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,1,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,1,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,1
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,1,0,0,1,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,1,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,1,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,1,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,1,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,1,0,0,0,1
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,1,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: No",1,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,1,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,1,0,0,0,1
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,1,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,0,1
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,1,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,1,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,1,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,1,0,0,0,0
+"hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,0,1
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,0,0,0,0,1
+"hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,1,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,1,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,1,0,0,0
+"hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,1,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,1,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,1,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,0,0,0,1,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,1,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,1
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,1,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,0,1
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,1,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,1,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,1
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",1,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,1
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,1
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,1,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,1,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,1,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,0,0,0,0,1
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: Yes
+acute myocardial infarction: No",0,0,0,0,1,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",1,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: Yes
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,1,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,1,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,1,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: Yes
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: Yes",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: No
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0
+"hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No","hypertension: Yes
+hyperlipidemia: No
+pancreatic cancer: No
+celiac: No
+lupus: No
+acute myocardial infarction: No",0,0,0,0,0,0

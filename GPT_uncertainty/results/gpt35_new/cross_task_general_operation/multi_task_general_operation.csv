@@ -1,0 +1,1101 @@
+pred_1,pred_2,pred_3,pred_4,pred_5,0,1,2
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",1,0,1
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",1,1,0
+"Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",1,1,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",1,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",1,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: Yes",1,0,0
+"Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes",1,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",1,1,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",1,0,0
+"Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No",1,0,1
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",1,1,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",1,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",1,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes",1,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",1,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",1,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: Yes","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: No
+Readmission: Yes","Long length of stay: No
+ICU transfer: No
+Readmission: No",1,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",1,1,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",1,1,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",1,1,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,1,1
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,1,0
+"Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,1
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: Yes","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: Yes",0,1,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,1,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,1,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,1
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: Yes",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,1,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,1,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,1
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: No
+ICU transfer: Yes
+Readmission: No",0,0,1
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: Yes","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: Yes","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: Yes",0,0,0
+"Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: Yes
+Readmission: No",0,1,0
+"Long length of stay: No
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: Yes
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No",0,1,1
+"Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: Yes
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0
+"Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No","Long length of stay: No
+ICU transfer: No
+Readmission: No",0,0,0

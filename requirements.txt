@@ -1,0 +1,11 @@
+femr_cuda==0.0.20
+lightgbm==3.3.5
+loguru==0.7.0
+matplotlib==3.5.2
+numpy==1.24.3
+pandas==1.5.3
+scikit_learn==1.2.2
+scipy==1.14.1
+torch==2.3.1
+torch_uncertainty==0.2.2.post2
+tqdm==4.66.4
